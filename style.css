@@ -2319,7 +2319,7 @@ body {
     }
 
     .goal-content h3 {
-        font-size: 27px;
+        font-size: 35px;
         margin-bottom: 8px;
     }
 
@@ -2339,11 +2339,11 @@ body {
     }
 
     .goal-content li {
-        font-size: 19px;
+        font-size: 22px;
     }
 
     .goal-content p {
-        font-size: 15px;
+        font-size: 20px;
         line-height: 1.15;
     }
 }
