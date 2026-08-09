@@ -1,4 +1,4 @@
-# Personal-Portfolio-Website
+# Personal Introduction Website
 
 ## Student Information 
 Name: Kyla G. Lacanlale 
