@@ -2723,6 +2723,17 @@ body {
         width: 34px;
         height: 34px;
     }
+
+    .footer {
+        min-height: 42px;
+        height: auto;
+        padding: 7px 12px;
+    }
+
+    .footer p {
+        font-size: 13px;
+        line-height: 1.2;
+    }
 }
 
 /* mobile */
@@ -2871,6 +2882,17 @@ body {
         width: 27px;
         height: 27px;
     }
+
+    .footer {
+        min-height: 42px;
+        height: auto;
+        padding: 7px 12px;
+    }
+
+    .footer p {
+        font-size: 13px;
+        line-height: 1.2;
+    }
 }
 
 
@@ -2971,5 +2993,16 @@ body {
     .social-links a img {
         width: 28px;
         height: 28px;
+    }
+
+    .footer {
+        min-height: 42px;
+        height: auto;
+        padding: 7px 12px;
+    }
+
+    .footer p {
+        font-size: 13px;
+        line-height: 1.2;
     }
 }
