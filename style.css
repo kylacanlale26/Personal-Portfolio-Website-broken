@@ -2403,10 +2403,14 @@ body {
     position: relative;
     z-index: 5;
     width: 58%;
-    padding: 120px 6% 80px 2%;
-    text-align: center;
-    transform: none;
+    height: 100%;
+    padding: 30px 6% 30px 2%;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .contact-content > h2 {
@@ -2437,7 +2441,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 6px;
-    margin: 15px auto 25px;
+    margin: 12px auto 18px;
     width: 520px;
     max-width: 80vw;
 }
@@ -2457,7 +2461,7 @@ body {
 }
 
 .contact-heading {
-    margin: 0 auto 25px;
+    margin: 0 auto 18px;
     width: fit-content;
     color: #944E63;
     font-family: "Playfair Display", serif;
@@ -2474,17 +2478,17 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 45px;
-    row-gap: 20px;
+    row-gap: 15px;
     text-align: left;
 }
 
 .contact-item {
-    min-height: 72px;
+    min-height: 65px;
     display: grid;
     grid-template-columns: 50px 1fr;
     align-items: center;
     column-gap: 18px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     border-bottom: none;
 }
 
@@ -2537,7 +2541,7 @@ body {
 }
 
 .connect-section {
-    margin-top: 28px;
+    margin-top: 18px;
     text-align: center;
 }
 
@@ -2545,11 +2549,11 @@ body {
     width: 30%;
     height: 1px;
     background: #944E63;
-    margin: 0 auto 20px;
+    margin: 0 auto 12px;
 }
 
 .connect-section h3 {
-    margin: 0 0 18px;
+    margin: 0 0 10px;
     color: #944E63;
     font-family: "Playfair Display", serif;
     font-size: 20px;
