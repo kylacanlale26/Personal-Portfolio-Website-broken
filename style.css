@@ -3010,3 +3010,23 @@ body {
         line-height: 1.2;
     }
 }
+
+#about,
+#education,
+#skills,
+#hobbies,
+#goals,
+#contact {
+    scroll-margin-top: 90px;
+}
+
+@media (max-width: 768px) {
+    #about,
+    #education,
+    #skills,
+    #hobbies,
+    #goals,
+    #contact {
+        scroll-margin-top: 75px;
+    }
+}
