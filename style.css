@@ -627,7 +627,7 @@ body {
 
 .about-divider span {
     flex: 1;
-    height: 2px;
+    height: 1px;
     background: #944E63;
 }
 
